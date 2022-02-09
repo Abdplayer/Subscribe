@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(270deg, #ffafbd, #f08d54);
+    font-size: 40px;
+}
+
+fieldset {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+legend{
+    font-size: 60px;
+}
+
+img {
+    padding-right: 20px;
+}
